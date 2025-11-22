@@ -1,0 +1,6 @@
+@EngageGovContentMcp.Server_HostAddress = http://localhost:5276
+
+GET {{EngageGovContentMcp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
